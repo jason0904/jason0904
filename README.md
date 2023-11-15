@@ -1,17 +1,17 @@
 ## Hi!, I'm a Student Studying in Chung-Ang Univ.    
 ![jason09004's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason0904&show_icons=true&theme=onedark)
 
-## Main language
+## - Main language
 - C
 - C++
 - JAVA
 
-## Studying
+## - Studying
 - Golang
 - Spring Boot
 - Database
 
-## Interested In
+## - Interested In
 - Gofiber
 - Smali
 - OS (Especially Android)
