@@ -1,10 +1,26 @@
-Hi!, I'm a Student Studying in Chung-Ang Univ.    
-=============
+## Hi!, I'm a Student Studying in Chung-Ang Univ.    
 ![jason09004's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason0904&show_icons=true&theme=onedark)
 
+## Main language
+- C
+- C++
+- JAVA
+
+## Studying
+- Golang
+- Spring Boot
+- Database
+
+## Interested In
+- Gofiber
+- Smali
+- OS (Especially Android)
+- System Programming
+
+## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jason0904)](https://solved.ac/jason0904)
 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
 
 <!--
 **jason0904/jason0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
