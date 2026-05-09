@@ -7,15 +7,8 @@
 - JAVA
 
 ## - Studying 
-- Golang
-- Spring Boot
+- Spring
 - Database
-
-## - Interested In
-- Gofiber
-- Smali
-- OS (Especially Android)
-- System Programming
 
 ## - Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jason0904)](https://solved.ac/jason0904)
