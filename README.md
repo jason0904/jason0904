@@ -1,5 +1,5 @@
 ## Hi!, I'm a Student Studying in Chung-Ang Univ.    
-![jason09004's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason0904&show_icons=true&theme=onedark)
+![jason09004's GitHub stats](https://github-stats-extended.vercel.app/api?username=jason0904&show_icons=true&theme=onedark)
 
 ## - Main language
 - C
